@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Position</title>
+	<style type="text/css">
+		.a{
+			position: fixed;
+		}
+		.b{
+			position: relative;
+		}
+		.c{
+			position: static;
+			top: 20px;
+			left: 30px;
+		}
+		.d{
+			position: fixed;
+		}
+	</style>
+</head>
+<body>
+	<div style="height: 200px;width: 400px">
+		<div class="a" style="height: 200px;width: 100px;background-color: red;float: left"></div>
+		<div class="b" style="height: 200px;width: 100px;background-color: green;float: left"></div>
+		<div class="c" style="height: 200px;width: 100px;background-color: yellow;float: left"></div>
+		<div class="d" style="height: 200px;width: 100px;background-color: blue;float: right"></div>
+	</div>
+</body>
+</html>

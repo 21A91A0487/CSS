@@ -1,0 +1,73 @@
+/*.external{
+	border: 3px solid red;
+	background-color: violet;
+}
+#abc{
+	font-size: 50px;
+	font-family: cursive;
+}
+p{
+	color: red;
+	font-size: 20px;
+}
+div{
+	height: 100px;
+	width: 100px;
+	background-color: aqua;
+}*/
+/**{
+	font-size: 40px;
+	font-family: cursive;
+	color: green
+}
+/*input[type]{
+	color: green
+}
+input[type="text"]{
+	color: red
+}
+input[type="number"]{
+	color: blue
+}*/
+/*a[href]{
+	background-color: yellow
+}*/
+/*a:link{
+	color: brown
+}
+a:visited{
+	color: green;
+}
+a:hover{
+	color: red;
+	font-size: 50px;
+}
+a:active{
+	color: yellow;
+}
+div:hover{
+	height: 300px;
+	width: 300px;
+	background-color: pink;
+}*/
+/*body{
+	background-image: url('nature1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+div{
+	height: 200px;
+	width: 400px;
+}
+div{
+	outline-style: dotted;
+	outline-width: 10px;
+	outline-color: red;
+}
+*/
+div{
+	height: 52px;
+	width: 202px;
+	background-color: grey;
+	padding-top: 5px;
+}
